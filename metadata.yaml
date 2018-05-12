@@ -1,0 +1,38 @@
+_repo: I-misteri-del-castello-d-Udolfo-vol.-2_33782
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Radcliffe, Ann Ward
+    alias: Radcliffe, Mrs.
+    birthdate: 1764
+    deathdate: 1823
+    gutenberg_agent_id: '1147'
+    url: http://www.gutenberg.org/2009/agents/1147
+    wikipedia: http://en.wikipedia.org/wiki/Ann_Radcliffe
+description: ''
+gutenberg_bookshelf:
+- Gothic Fiction
+- IT Romanzi
+gutenberg_issued: '2010-09-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33782'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gothic fiction (Literary genre)'
+- !lcsh 'Castles -- Fiction'
+- !lcsh 'Orphans -- Fiction'
+- !lcsh 'Horror tales'
+- !lcsh 'Guardian and ward -- Fiction'
+- !lcsh 'Italy -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcc 'PR'
+title: I misteri del castello d'Udolfo, vol. 2
+url: http://www.gutenberg.org/ebooks/33782
